@@ -1,6 +1,6 @@
 # NoteTaker
 
-This application uses an express backend to save and retrieve note data from a JSON file.
+This application uses an express backend to save and retrieve note data from a JSON file. The notes are entered on the notes page and can then be saved and viewed and then deleted. 
 
 ## Installation
 
